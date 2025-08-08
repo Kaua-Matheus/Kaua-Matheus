@@ -3,18 +3,36 @@ Eu sou o **Kauã M.**, atualmente estudante de **Engenharia de Software**.
 Grande entusiasta de Inteligência Artifical. <br/>
 Atualmente estou estudando CNNs (Redes Neurais Convolucionais), as CNNs servem para a analise de imagens tendo como propósito extrair alguma informação dessa imagem. Porém os usos das CNNs não se limitam a apenas imagens, existe uma vasta gama de utilizações para essa tecnologia.
 
+<a href="https://www.linkedin.com/in/kau%C3%A3-m-0816a0269/" target="_blank">
+  <img height="500" width="1200" alt="Linkedin Banner" title="Linkedin Banner" src="https://media.licdn.com/dms/image/v2/D4D16AQFEEc_ZT3hcYw/profile-displaybackgroundimage-shrink_350_1400/B4DZWVHBpbHIAY-/0/1741963402448?e=1757548800&v=beta&t=kBLjYZoT9tVuqACUvSwbjGa7OzXoXpSN2ETiKI23Bg8" />
+</a>
+
 ## 🏆 Reconhecimento
 1. 🥇 **Primeiro lugar** no evento _InovaThon_ **FAG** com o projeto **AgroScope**!
 
 ## Tecnologias
-<div> 
-  <img height="40" width="40" alt="Python Icon" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img height="40" width="40" alt="TensorFlow Icon" title="TensorFlow" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />        
-  <img height="40" width="40" alt="Javascript Icon" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> 
-  <img height="40" width="40" alt="React Icon" title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img height="40" width="40" alt="MySQL Icon" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-  <img height="40" width="40" alt="Figma Icon" title="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />        
-</div>
+  <!--Python-->
+  <div style="display-flex; flex"> 
+      <!--Python-->
+      <img title="Python" alt="Python" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+      <img title="PyTorch" alt="PyTorch" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" />
+      <img title="NumPy" alt="NumPy" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
+      <img title="Pandas" alt="Pandas" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
+      <img title="Matplotlib" alt="Matplotlib" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
+      <br>
+      <!--Typescript-->  
+      <img title="Typescript" height="60" width="60" alt="Typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />    
+      <img title="React" height="30" width="30" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+      <img title="Electron" height="30" width="30" alt="Electron" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" />    
+      <br>
+      <!--Golang-->
+      <img title="Golang" height="60" width="60" alt="Golang" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
+      <br>
+      <!--PostgreSQL-->
+      <img title="PostgreSQL" height="60" width="60" alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>  
+  </div>
+
+
 
 ### Redes
   <a href="https://www.instagram.com/kaua_matheuss_silva/"><img alt="Instagram do Kauã M." src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
