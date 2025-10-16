@@ -26,6 +26,7 @@ Atualmente estou estudando CNNs (Redes Neurais Convolucionais), as CNNs servem p
       <br>
       <!--PostgreSQL-->
       <img title="PostgreSQL" height="60" width="60" alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>  
+      
   </div>
 
 
@@ -34,3 +35,17 @@ Atualmente estou estudando CNNs (Redes Neurais Convolucionais), as CNNs servem p
   <a href="https://www.instagram.com/kaua_matheuss_silva/"><img alt="Instagram do Kauã M." src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
   <a href="https://www.linkedin.com/in/kauã-m-0816a0269/"><img alt="Linkedin do Kauã M." src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
   <a href="mailto:kauamatheussilva06@gmail.com"><img alt="Email do Kauã M." src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
+
+
+## Status
+
+<div align="left">
+  <a href="https://github.com/Kaua-Matheus">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kaua-matheus&show_icons=true&theme=midnight-purple" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Kaua-Matheus/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaua-Matheus&layout=compact&theme=midnight-purple" />
+  </a>
+</div>
+<img align="right" title="HuggingFace" height="60" width="30" alt="HuggingFace" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg"/>
