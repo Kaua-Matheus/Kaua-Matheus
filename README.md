@@ -1,7 +1,10 @@
 # Olá, seja muito bem-vindo!!
-Eu sou o **Kauã M.**, atualmente estudante de **Engenharia de Software**.
+<p>Eu sou o **Kauã M.**, atualmente estudante de **Engenharia de Software**.
 Grande entusiasta de Inteligência Artifical. <br/>
-Atualmente estou estudando CNNs (Redes Neurais Convolucionais), as CNNs servem para a analise de imagens tendo como propósito extrair alguma informação dessa imagem. Porém os usos das CNNs não se limitam a apenas imagens, existe uma vasta gama de utilizações para essa tecnologia.
+Atualmente estou estudando CNNs (Redes Neurais Convolucionais), as CNNs servem para a analise de imagens tendo como propósito extrair alguma informação dessa imagem. Porém os usos das CNNs não se limitam a apenas imagens, existe uma vasta gama de utilizações para essa tecnologia.</p>
+<p 
+  align="left"><a href="https://www.linkedin.com/in/kau%C3%A3-m-0816a0269/"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/banner_github.jpeg" /></a>
+</p>
 
 ## 🏆 Reconhecimento
 1. 🥇 **Primeiro lugar** no evento _InovaThon_ **FAG** com o projeto **AgroScope**!
