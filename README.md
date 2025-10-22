@@ -1,5 +1,5 @@
 # Olá, seja muito bem-vindo!!
-<p>Eu sou o **Kauã M.**, atualmente estudante de **Engenharia de Software**.
+<p>Eu sou o <b>Kauã M.</b>, atualmente estudante de <b>Engenharia de Software</b>.
 Grande entusiasta de Inteligência Artifical. <br/>
 Atualmente estou estudando CNNs (Redes Neurais Convolucionais), as CNNs servem para a analise de imagens tendo como propósito extrair alguma informação dessa imagem. Porém os usos das CNNs não se limitam a apenas imagens, existe uma vasta gama de utilizações para essa tecnologia.</p>
 <p 
