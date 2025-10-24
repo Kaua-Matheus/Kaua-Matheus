@@ -3,7 +3,7 @@
 Grande entusiasta de Inteligência Artifical. <br/>
 Atualmente estou estudando CNNs (Redes Neurais Convolucionais), as CNNs servem para a analise de imagens tendo como propósito extrair alguma informação dessa imagem. Porém os usos das CNNs não se limitam a apenas imagens, existe uma vasta gama de utilizações para essa tecnologia.</p>
 <p 
-  align="left"><a href="https://www.linkedin.com/in/kau%C3%A3-m-0816a0269/"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/banner_github.jpeg" /></a>
+  align="left"><a href="https://www.linkedin.com/in/kau%C3%A3-m-0816a0269/"><img width="80%" alt="Hallo, ich bin Kauã, ich ist FullStack!" src="./assets/banner_github.jpeg" /></a>
 </p>
 
 ## 🏆 Reconhecimento
