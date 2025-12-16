@@ -1,7 +1,16 @@
 # Olá, seja muito bem-vindo!!
-<p>Eu sou o <b>Kauã M.</b>, atualmente estudante de <b>Engenharia de Software</b>.
-Grande entusiasta de Inteligência Artifical. <br/>
-Atualmente estou estudando CNNs (Redes Neurais Convolucionais), as CNNs servem para a analise de imagens tendo como propósito extrair alguma informação dessa imagem. Porém os usos das CNNs não se limitam a apenas imagens, existe uma vasta gama de utilizações para essa tecnologia.</p>
+<p>Eu sou o <b>Kauã M.</b>, estudante de <b>Engenharia de Software</b>.
+Atuando no desenvolvimento de soluções que unem IA aplicada, automação e engenharia de software. <br/>
+Tenho experiência prática no desenvolvimento de:
+<ul>
+  <li>Modelos de Machine Learning e Deep Learning, com ênfase em CNNs e Fine-Tuning de LLMs</li>
+  <li>Sistemas backend para serviços de IA, APIs e pipelines de dados</li>
+  <li>Automação inteligente, integrando modelos, bancos de dados e serviços</li>
+</ul>
+</p>
+
+<br/>
+
 <p 
   align="left"><a href="https://www.linkedin.com/in/kau%C3%A3-m-0816a0269/"><img width="80%" alt="Hallo, ich bin Kauã, ich ist FullStack!" src="./assets/banner_github.jpeg" /></a>
 </p>
